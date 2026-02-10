@@ -1,0 +1,2 @@
+[console_scripts]
+fowie = fowie.main:main

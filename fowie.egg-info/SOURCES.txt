@@ -1,0 +1,13 @@
+pyproject.toml
+fowie/__init__.py
+fowie/face.py
+fowie/main.py
+fowie/metrics.py
+fowie/notify.py
+fowie/rules.py
+fowie.egg-info/PKG-INFO
+fowie.egg-info/SOURCES.txt
+fowie.egg-info/dependency_links.txt
+fowie.egg-info/entry_points.txt
+fowie.egg-info/requires.txt
+fowie.egg-info/top_level.txt

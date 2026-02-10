@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fowie"
+version = "0.1.0"
+description = "Fowie: guardián del rendimiento del sistema"
+dependencies = ["psutil"]
+
+[project.scripts]
+fowie = "fowie.main:main"
