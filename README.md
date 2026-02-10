@@ -27,3 +27,9 @@ Dependencias:
  Ejecutar en consola el siguiente comando: 
 
  fowie
+
+ **Desinstalar**
+
+ Si por algun motivo decides desinstalar el programa ejecuta el siguiente comando: 
+
+ pip uninstall fowie
