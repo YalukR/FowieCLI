@@ -21,3 +21,9 @@ Dependencias:
  **Instalar Fowie**
 
  pip install -e .
+
+ **Ejecución**
+
+ Ejecutar en consola el siguiente comando: 
+
+ fowie
